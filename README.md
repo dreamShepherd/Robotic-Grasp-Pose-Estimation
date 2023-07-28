@@ -5,4 +5,4 @@ The ROS files and the bulk of the actual code is on the arm, but I share the res
 
 [Results Presentation](https://www.youtube.com/watch?v=X4GmfFWVYsQ)
 
-![Arm in question](arm.jpeg)
+![The Arm We Used](arm.jpg)
